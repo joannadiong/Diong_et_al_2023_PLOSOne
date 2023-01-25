@@ -1,0 +1,83 @@
+,names,labels
+0,record_id,Record ID
+1,auditor,Auditor initials
+2,journal,Journal name
+3,ref_doc,"Does the journal recommend or mandate any relevant document? (e.g. EQUATOR guidelines, J Physiol Drummond good reporting series, J Appl Physiol Curran-Everett series)    * If the journal only mentions or highlights that external reporting guidelines exists, DO NOT tick the box in RedCap for the mentioned reporting guideline(s).  * If the journal recommends or mandates one or more external reporting guidelines, DO tick the box in RedCap for the mentioned reporting guideline(s)."
+4,ref_doc_name___1,Name(s) of reference document(s) (choice=AGREE)
+5,ref_doc_name___2,Name(s) of reference document(s) (choice=APS_Rigor)
+6,ref_doc_name___3,Name(s) of reference document(s) (choice=ARRIVE)
+7,ref_doc_name___4,Name(s) of reference document(s) (choice=BRISQ)
+8,ref_doc_name___5,Name(s) of reference document(s) (choice=CARE)
+9,ref_doc_name___6,Name(s) of reference document(s) (choice=CHEERS)
+10,ref_doc_name___7,Name(s) of reference document(s) (choice=CONSORT)
+11,ref_doc_name___8,Name(s) of reference document(s) (choice=COREQ)
+12,ref_doc_name___9,Name(s) of reference document(s) (choice=FORCE)
+13,ref_doc_name___10,Name(s) of reference document(s) (choice=GRIPS)
+14,ref_doc_name___11,Name(s) of reference document(s) (choice=ICMJE-recomm)
+15,ref_doc_name___12,Name(s) of reference document(s) (choice=MOOSE)
+16,ref_doc_name___13,Name(s) of reference document(s) (choice=PRISMA)
+17,ref_doc_name___14,Name(s) of reference document(s) (choice=recomm-report-)
+18,ref_doc_name___15,Name(s) of reference document(s) (choice=RECORD)
+19,ref_doc_name___16,Name(s) of reference document(s) (choice=REFLECT)
+20,ref_doc_name___17,Name(s) of reference document(s) (choice=REMARK)
+21,ref_doc_name___18,Name(s) of reference document(s) (choice=RIGHT)
+22,ref_doc_name___19,Name(s) of reference document(s) (choice=SAMPL)
+23,ref_doc_name___20,Name(s) of reference document(s) (choice=SPIRIT)
+24,ref_doc_name___21,Name(s) of reference document(s) (choice=SQUIRE)
+25,ref_doc_name___22,Name(s) of reference document(s) (choice=SRQR)
+26,ref_doc_name___23,Name(s) of reference document(s) (choice=stand-rep-qual-)
+27,ref_doc_name___24,Name(s) of reference document(s) (choice=STARD)
+28,ref_doc_name___25,Name(s) of reference document(s) (choice=STREGA)
+29,ref_doc_name___26,Name(s) of reference document(s) (choice=STROBE)
+30,ref_doc_name___27,Name(s) of reference document(s) (choice=STROND PART 1 AND 2)
+31,ref_doc_name___28,Name(s) of reference document(s) (choice=TIDieR)
+32,ref_doc_name___29,Name(s) of reference document(s) (choice=TOP)
+33,ref_doc_name___30,Name(s) of reference document(s) (choice=TREND)
+34,ref_doc_name___31,Name(s) of reference document(s) (choice=TRIPOD)
+35,prereg_trial,"Report whether the study protocol was pre-registered, for clinical trials?"
+36,comment_prereg_trial,Comments
+37,prereg_other,"Report whether the study protocol was pre-registered or registered, for all other study designs?"
+38,comment_prereg_other,Comments.1
+39,stat_tests,Report all statistical tests performed?
+40,comment_stat_tests,Comments.2
+41,outcomes,Report all outcomes?
+42,comment_outcomes,Comments.3
+43,alpha,"Report, for frequentist analysis, the alpha threshold (e.g. 0.05) that defines statistical significance?"
+44,comment_alpha,Comments.4
+45,exclude,Report criteria used to exclude data?
+46,comment_exclude,Comments.5
+47,missing,Report how any missing data were treated in the analyses?
+48,comment_missing,Comments.6
+49,prior,"Report, for Bayesian analysis, the prior probabilities?"
+50,comment_prior,Comments.7
+51,var,Define all written measures that describe data variability?
+52,comment_var,Comments.8
+53,mean,"Describe data using mean and SD, where appropriate?"
+54,comment_mean,Comments.9
+55,median,"Describe data using median and IQR, range, or both, where appropriate? "
+56,comment_median,Comments.10
+57,no_sem,NOT use the SE or CI (e.g. 95% CI) to describe data?
+58,comment_no_sem,Comments.11
+59,pval,Report the P value for all tests of statistical significance? 
+60,comment_pval,Comments.12
+61,exact_p,Report exact P values (e.g. p = 0.021 or p < 0.001)?
+62,comment_exact_p,Comments.13
+63,precision,Report a measure of precision (e.g. 95% CI) for effect sizes? 
+64,comment_precision,Comments.14
+65,trend,NOT interpret P values above the alpha threshold as trends towards statistical significance or as statistically significant?
+66,comment_trend,Comments.15
+67,posterior,"Report, for Bayesian analysis, the posterior distribution with a measure of central tendency and a credibility interval?"
+68,comment_posterior,Comments.16
+69,fig_var,Define all plotted measures that summarise data variability or estimates of effect size?
+70,comment_fig_var,Comments.17
+71,fig_raw_data,Plot the individual participant/ specimen data in all figures that summarise data variability or estimates of effect size?
+72,comment_fig_raw_data,Comments.18
+73,pub_data,Make (de-identified) data used in the statistical analysis publicly available?
+74,comment_pub_data,Comments.19
+75,pub_proc,Make data processing code or spreadsheets publicly available? 
+76,comment_pub_proc,Comments.20
+77,pub_stat,Make statistical analysis code or spreadsheets publicly available? 
+78,comment_pub_stat,Comments.21
+79,inconsistent,"Were there inconsistencies within the Journal Instructions to authors? (e.g. Journal Instructions state 'do not report SEs' in text but, in another section of the Journal Instructions to authors, show examples of figures with SEs)"
+80,inconsistent_txt,"If YES, copy-paste relevant text, or comment"
+81,audit_complete,Complete?

@@ -1,0 +1,101 @@
+,journal,guidelines
+6,acta neuropathologica,"['AGREE', 'ARRIVE', 'CARE', 'CHEERS', 'CONSORT', 'COREQ', 'PRISMA', 'RIGHT', 'SQUIRE', 'SRQR', 'STARD', 'STROBE', 'TRIPOD']"
+7,acta physiologica,[]
+8,alzheimers research & therapy,"['ARRIVE', 'CARE', 'CHEERS', 'CONSORT', 'COREQ', 'ICMJE-recomm', 'PRISMA', 'SAMPL', 'SPIRIT', 'STARD', 'STROBE', 'TRIPOD']"
+64,american journal of physiology-heart and circulatory physiology,['ARRIVE']
+63,american journal of physiology-lung cellular and molecular physiology,['ARRIVE']
+24,annals of neurology,"['CONSORT', 'ICMJE-recomm']"
+85,applied physiology nutrition and metabolism,"['ARRIVE', 'CONSORT']"
+69,behavioral neuroscience,[]
+95,behavioural brain research,['ARRIVE']
+96,bmc neuroscience,[]
+25,brain,"['ARRIVE', 'CONSORT', 'STROBE']"
+55,brain and behavior,"['AGREE', 'ARRIVE', 'CARE', 'CHEERS', 'CONSORT', 'PRISMA', 'SPIRIT', 'SQUIRE', 'SRQR', 'STARD', 'STROBE']"
+91,brain and language,['ARRIVE']
+0,brain injury,"['CARE', 'CONSORT', 'PRISMA', 'STARD', 'STROBE']"
+99,brain research,[]
+35,brain sciences,"['ARRIVE', 'CONSORT', 'ICMJE-recomm', 'PRISMA', 'TOP']"
+26,brain stimulation,"['ARRIVE', 'ICMJE-recomm']"
+54,canadian journal of physiology and pharmacology,[]
+11,cerebellum,"['AGREE', 'ARRIVE', 'CARE', 'CHEERS', 'CONSORT', 'COREQ', 'PRISMA', 'RIGHT', 'SPIRIT', 'SQUIRE', 'SRQR', 'STARD', 'STROBE', 'TRIPOD']"
+27,cerebral cortex,[]
+87,clinical and experimental pharmacology and physiology,['CONSORT']
+9,clinical journal of sport medicine,['PRISMA']
+33,clinical neurophysiology,[]
+70,clinical physiology and functional imaging,[]
+29,comprehensive physiology,"['APS_Rigor', 'ARRIVE']"
+36,cortex,"['ARRIVE', 'TOP']"
+57,current neurology and neuroscience reports,"['AGREE', 'ARRIVE', 'CARE', 'CHEERS', 'CONSORT', 'COREQ', 'ICMJE-recomm', 'PRISMA', 'RIGHT', 'SPIRIT', 'SQUIRE', 'SRQR', 'stand-rep-qual-', 'STARD', 'STROBE', 'TRIPOD']"
+30,developmental cognitive neuroscience,"['ARRIVE', 'ICMJE-recomm']"
+94,developmental neuroscience,"['ARRIVE', 'CONSORT', 'ICMJE-recomm', 'TREND']"
+56,eneuro,[]
+84,european journal of applied physiology,"['AGREE', 'ARRIVE', 'CARE', 'CHEERS', 'CONSORT', 'COREQ', 'PRISMA', 'SPIRIT', 'SQUIRE', 'SRQR', 'STARD', 'STROBE', 'TRIPOD']"
+52,european journal of neurology,"['AGREE', 'ARRIVE', 'CARE', 'CHEERS', 'CONSORT', 'PRISMA', 'SPIRIT', 'SQUIRE', 'SRQR', 'STARD', 'STROBE']"
+59,european journal of neuroscience,"['ARRIVE', 'CONSORT', 'recomm-report-', 'REFLECT']"
+1,experimental brain research,"['AGREE', 'ARRIVE', 'CARE', 'CHEERS', 'CONSORT', 'COREQ', 'PRISMA', 'RIGHT', 'SPIRIT', 'SQUIRE', 'SRQR', 'STARD', 'STROBE', 'TRIPOD']"
+90,experimental neurobiology,[]
+5,experimental neurology,"['ARRIVE', 'ICMJE-recomm']"
+88,experimental physiology,"['AGREE', 'SPIRIT']"
+49,frontiers in neuroscience,"['ARRIVE', 'CONSORT', 'FORCE', 'ICMJE-recomm', 'TOP']"
+92,gait & posture,[]
+32,glia,"['ARRIVE', 'CARE', 'CONSORT', 'FORCE', 'PRISMA', 'SPIRIT', 'STARD', 'STROBE', 'TRIPOD']"
+43,human brain mapping,"['AGREE', 'ARRIVE', 'CARE', 'CHEERS', 'CONSORT', 'FORCE', 'PRISMA', 'SPIRIT', 'SQUIRE', 'SRQR', 'stand-rep-qual-', 'STARD', 'STROBE']"
+13,human movement science,['ARRIVE']
+16,ieee transactions on cognitive and developmental systems,[]
+53,international journal of neuroscience,"['CONSORT', 'PRISMA', 'STARD', 'STROBE']"
+83,international journal of psychophysiology,['ARRIVE']
+93,journal of applied physiology,"['APS_Rigor', 'ARRIVE']"
+34,journal of cellular physiology,[]
+42,journal of cerebral blood flow and metabolism,"['BRISQ', 'CONSORT', 'ICMJE-recomm', 'PRISMA', 'REMARK', 'SAMPL']"
+74,journal of clinical neurophysiology,[]
+48,journal of clinical neuroscience,[]
+61,journal of cognitive neuroscience,[]
+98,journal of comparative neurology,"['ARRIVE', 'CONSORT', 'FORCE', 'REFLECT']"
+47,journal of computational neuroscience,"['AGREE', 'ARRIVE', 'CHEERS', 'CONSORT', 'COREQ', 'PRISMA', 'RIGHT', 'SPIRIT', 'SQUIRE', 'SRQR', 'STARD', 'STROBE', 'TRIPOD']"
+2,journal of electromyography and kinesiology,['CONSORT']
+41,journal of general physiology,"['ARRIVE', 'BRISQ']"
+77,journal of integrative neuroscience,[]
+20,journal of membrane biology,"['AGREE', 'ARRIVE', 'COREQ', 'PRISMA', 'RIGHT', 'SPIRIT', 'SQUIRE', 'SRQR', 'STARD', 'STROBE', 'TRIPOD']"
+15,journal of molecular neuroscience,"['CONSORT', 'PRISMA', 'SPIRIT', 'STARD', 'TRIPOD']"
+76,journal of motor behavior,[]
+40,journal of neurochemistry,"['ARRIVE', 'CONSORT', 'STROBE', 'TOP']"
+39,journal of neuroengineering and rehabilitation,"['ARRIVE', 'CARE', 'CHEERS', 'CONSORT', 'COREQ', 'ICMJE-recomm', 'PRISMA', 'SAMPL', 'SPIRIT', 'STARD', 'STROBE', 'TRIPOD']"
+19,journal of neurolinguistics,['ARRIVE']
+46,journal of neurophysiology,['ARRIVE']
+23,journal of neuropsychiatry and clinical neurosciences,['ICMJE-recomm']
+44,journal of neuroscience,[]
+12,journal of neuroscience methods,['ARRIVE']
+4,journal of neuroscience research,"['ARRIVE', 'CONSORT', 'FORCE', 'PRISMA']"
+38,journal of neurotrauma,['ICMJE-recomm']
+31,journal of pain,"['ARRIVE', 'CONSORT', 'PRISMA', 'STARD', 'STROBE']"
+97,journal of physiological sciences,[]
+82,journal of physiology and pharmacology,[]
+28,journal of physiology-london,"['ARRIVE', 'Drummond', 'Schultz']"
+21,journal of stroke & cerebrovascular diseases,['ARRIVE']
+60,journal of the neurological sciences,[]
+80,molecular psychiatry,[]
+79,motor control,[]
+86,muscle & nerve,[]
+45,nature neuroscience,"['BRISQ', 'CONSORT', 'ICMJE-recomm', 'REMARK']"
+50,neural networks,[]
+62,neural plasticity,"['ARRIVE', 'CARE', 'CONSORT', 'PRISMA', 'stand-rep-qual-', 'STARD', 'STREGA', 'STROBE', 'TREND']"
+37,neurobiology of aging,[]
+89,neurological sciences,"['AGREE', 'CARE', 'CHEERS', 'CONSORT', 'PRISMA', 'SPIRIT', 'SQUIRE', 'STARD', 'STROBE', 'TRIPOD']"
+51,neurology-neuroimmunology & neuroinflammation,"['AGREE', 'ARRIVE', 'CARE', 'CHEERS', 'CONSORT', 'COREQ', 'GRIPS', 'ICMJE-recomm', 'MOOSE', 'PRISMA', 'RECORD', 'RIGHT', 'SAMPL', 'SPIRIT', 'SQUIRE', 'SRQR', 'STARD', 'STREGA', 'STROBE', 'STROND PART 1 AND 2', 'TRIPOD', 'Cummings']"
+58,neuron,"['ARRIVE', 'STAR Methods']"
+14,neuropathology,[]
+71,neuropsychobiology,"['ARRIVE', 'CARE', 'CONSORT', 'PRISMA', 'TREND']"
+17,neuropsychologia,['ARRIVE']
+65,neuropsychopharmacology,"['CONSORT', 'PRISMA']"
+75,neuroreport,[]
+68,neuroscience,[]
+18,neuroscience letters,['ARRIVE']
+81,neuroscience research,[]
+66,pain,"['CONSORT', 'SPIRIT']"
+10,pflugers archiv-european journal of physiology,"['AGREE', 'ARRIVE', 'CARE', 'CHEERS', 'CONSORT', 'COREQ', 'PRISMA', 'RIGHT', 'SPIRIT', 'SQUIRE', 'SRQR', 'STARD', 'STROBE', 'TRIPOD']"
+22,physiological measurement,[]
+72,physiological research,[]
+67,physiology,"['APS_Rigor', 'ARRIVE', 'APS_Editorial']"
+73,respiratory physiology & neurobiology,['ARRIVE']
+3,sleep,"['CONSORT', 'ICMJE-recomm', 'PRISMA', 'STARD', 'STROBE', 'TRIPOD']"
+78,somatosensory and motor research,[]

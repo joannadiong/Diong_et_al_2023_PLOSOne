@@ -1,0 +1,254 @@
+
+[prereg_trial]: Report whether the study protocol was pre-registered, for clinical trials?
+[prereg_other]: Report whether the study protocol was pre-registered or registered, for all other study designs?
+[stat_tests]: Report all statistical tests performed?
+[outcomes]: Report all outcomes?
+[alpha]: Report, for frequentist analysis, the alpha threshold (e.g. 0.05) that defines statistical significance?
+[exclude]: Report criteria used to exclude data?
+[missing]: Report how any missing data were treated in the analyses?
+[prior]: Report, for Bayesian analysis, the prior probabilities?
+[var]: Define all written measures that describe data variability?
+[mean]: Describe data using mean and SD, where appropriate?
+[median]: Describe data using median and IQR, range, or both, where appropriate?
+[no_sem]: NOT use the SE or CI (e.g. 95% CI) to describe data?
+[pval]: Report the P value for all tests of statistical significance?
+[exact_p]: Report exact P values (e.g. p = 0.021 or p < 0.001)?
+[precision]: Report a measure of precision (e.g. 95% CI) for effect sizes?
+[trend]: NOT interpret P values above the alpha threshold as trends towards statistical significance or as statistically significant?
+[posterior]: Report, for Bayesian analysis, the posterior distribution with a measure of central tendency and a credibility interval?
+[fig_var]: Define all plotted measures that summarise data variability or estimates of effect size?
+[fig_raw_data]: Plot the individual participant/ specimen data in all figures that summarise data variability or estimates of effect size?
+[pub_data]: Make (de-identified) data used in the statistical analysis publicly available?
+[pub_proc]: Make data processing code or spreadsheets publicly available?
+[pub_stat]: Make statistical analysis code or spreadsheets publicly available?
+
+
+Section 1. When reporting research methods, do the Journal Instructions require authors to:
+
+Q1. Report whether the study protocol was pre-registered, for clinical trials?
+a) not mentioned    44
+b) encouraged        7
+c) required         49
+
+Q2. Report whether the study protocol was pre-registered or registered, for all other study designs?
+a) not mentioned    91
+b) encouraged        7
+c) required          2
+
+Q3. Report all statistical tests performed?
+a) not mentioned    80
+b) encouraged        8
+c) required         12
+
+Q4. Report all outcomes?
+a) not mentioned    90
+b) encouraged        3
+c) required          7
+
+> SUBSET: journals that did not reference external guidelines (n, %):
+
+Q1. Report whether the study protocol was pre-registered, for clinical trials?
+a) not mentioned    26
+b) encouraged        3
+c) required          5
+
+Q2. Report whether the study protocol was pre-registered or registered, for all other study designs?
+a) not mentioned    32
+b) encouraged        1
+c) required          1
+
+Q3. Report all statistical tests performed?
+a) not mentioned    28
+b) encouraged        1
+c) required          5
+
+Q4. Report all outcomes?
+a) not mentioned    31
+b) encouraged        1
+c) required          2
+
+
+Section 2. When reporting statistical methods, do the Journal Instructions require authors to:
+
+Q5. Report, for frequentist analysis, the alpha threshold (e.g. 0.05) that defines statistical significance?
+a) not mentioned    90
+b) encouraged        4
+c) required          6
+
+Q6. Report criteria used to exclude data?
+a) not mentioned    93
+b) encouraged        4
+c) required          3
+
+Q7. Report how any missing data were treated in the analyses?
+a) not mentioned    98
+b) encouraged        2
+
+Q8. Report, for Bayesian analysis, the prior probabilities?
+a) not mentioned    98
+b) encouraged        1
+c) required          1
+
+> SUBSET: journals that did not reference external guidelines (n, %):
+
+Q5. Report, for frequentist analysis, the alpha threshold (e.g. 0.05) that defines statistical significance?
+a) not mentioned    33
+c) required          1
+
+Q6. Report criteria used to exclude data?
+a) not mentioned    32
+b) encouraged        1
+c) required          1
+
+Q7. Report how any missing data were treated in the analyses?
+a) not mentioned    34
+
+Q8. Report, for Bayesian analysis, the prior probabilities?
+a) not mentioned    33
+b) encouraged        1
+
+
+Section 3. When reporting results in text, do the Journal Instructions require authors to:
+
+Q9. Define all written measures that describe data variability?
+a) not mentioned    85
+b) encouraged        7
+c) required          8
+
+Q10. Describe data using mean and SD, where appropriate?
+a) not mentioned    83
+b) encouraged        6
+c) required         11
+
+Q11. Describe data using median and IQR, range, or both, where appropriate?
+a) not mentioned    86
+b) encouraged        5
+c) required          9
+
+Q12. NOT use the SE or CI (e.g. 95% CI) to describe data?
+a) not mentioned    95
+b) encouraged        1
+c) required          4
+
+Q13. Report the P value for all tests of statistical significance?
+a) not mentioned    86
+b) encouraged        4
+c) required         10
+
+Q14. Report exact P values (e.g. p = 0.021 or p < 0.001)?
+a) not mentioned    81
+b) encouraged        7
+c) required         12
+
+Q15. Report a measure of precision (e.g. 95% CI) for effect sizes?
+a) not mentioned    86
+b) encouraged        5
+c) required          9
+
+Q16. NOT interpret P values above the alpha threshold as trends towards statistical significance or as statistically significant?
+a) not mentioned    97
+c) required          3
+
+Q17. Report, for Bayesian analysis, the posterior distribution with a measure of central tendency and a credibility interval?
+a) not mentioned    98
+b) encouraged        1
+c) required          1
+
+> SUBSET: journals that did not reference external guidelines (n, %):
+
+Q9. Define all written measures that describe data variability?
+a) not mentioned    30
+b) encouraged        1
+c) required          3
+
+Q10. Describe data using mean and SD, where appropriate?
+a) not mentioned    32
+b) encouraged        1
+c) required          1
+
+Q11. Describe data using median and IQR, range, or both, where appropriate?
+a) not mentioned    33
+c) required          1
+
+Q12. NOT use the SE or CI (e.g. 95% CI) to describe data?
+a) not mentioned    34
+
+Q13. Report the P value for all tests of statistical significance?
+a) not mentioned    29
+b) encouraged        2
+c) required          3
+
+Q14. Report exact P values (e.g. p = 0.021 or p < 0.001)?
+a) not mentioned    28
+b) encouraged        2
+c) required          4
+
+Q15. Report a measure of precision (e.g. 95% CI) for effect sizes?
+a) not mentioned    32
+b) encouraged        1
+c) required          1
+
+Q16. NOT interpret P values above the alpha threshold as trends towards statistical significance or as statistically significant?
+a) not mentioned    34
+
+Q17. Report, for Bayesian analysis, the posterior distribution with a measure of central tendency and a credibility interval?
+a) not mentioned    33
+b) encouraged        1
+
+
+Section 4. When plotting results in figures, do the Journal Instructions require authors to:
+
+Q18. Define all plotted measures that summarise data variability or estimates of effect size?
+a) not mentioned    83
+b) encouraged        7
+c) required         10
+
+Q19. Plot the individual participant/ specimen data in all figures that summarise data variability or estimates of effect size?
+a) not mentioned    90
+b) encouraged        8
+c) required          2
+
+> SUBSET: journals that did not reference external guidelines (n, %):
+
+Q18. Define all plotted measures that summarise data variability or estimates of effect size?
+a) not mentioned    31
+c) required          3
+
+Q19. Plot the individual participant/ specimen data in all figures that summarise data variability or estimates of effect size?
+a) not mentioned    32
+b) encouraged        1
+c) required          1
+
+
+Section 5. To encourage transparent reporting, do the Journal Instructions require authors to:
+
+Q20. Make (de-identified) data used in the statistical analysis publicly available?
+a) not mentioned    19
+b) encouraged       64
+c) required         17
+
+Q21. Make data processing code or spreadsheets publicly available?
+a) not mentioned    54
+b) encouraged       41
+c) required          5
+
+Q22. Make statistical analysis code or spreadsheets publicly available?
+a) not mentioned    66
+b) encouraged       32
+c) required          2
+
+> SUBSET: journals that did not reference external guidelines (n, %):
+
+Q20. Make (de-identified) data used in the statistical analysis publicly available?
+a) not mentioned    11
+b) encouraged       19
+c) required          4
+
+Q21. Make data processing code or spreadsheets publicly available?
+a) not mentioned    20
+b) encouraged       12
+c) required          2
+
+Q22. Make statistical analysis code or spreadsheets publicly available?
+a) not mentioned    22
+b) encouraged       12

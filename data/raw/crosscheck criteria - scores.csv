@@ -1,0 +1,38 @@
+Reference doc,"1. When reporting research methods, do the Journal Instructions require authors to:",,,,"2. When reporting statistical methods, do the Journal Instructions require authors to:",,,,"3. When reporting results in text, do the Journal Instructions require authors to:",,,,,,,,,"4. When plotting results in figures, do the Journal Instructions require authors to:",,"5. To encourage transparent reporting, do the Journal Instructions require authors to:",,
+"R: Required,   E: Encouraged,   N: No mention","Report whether the study protocol was pre-registered, for clinical trials?","Report whether the study protocol was pre-registered or registered, for all other study designs?",Report all statistical tests performed?,Report all outcomes?,"Report, for frequentist analysis, the alpha threshold (e.g. 0.05) that defines statistical significance?",Report criteria used to exclude data?,Report how any missing data were treated in the analyses?,"Report, for Bayesian analysis, the prior probabilities?",Define all written measures that describe data variability?,"Describe data using mean and SD, where appropriate?","Describe data using median and IQR, range, or both, where appropriate?",NOT use the SE or CI (e.g. 95% CI) to describe data?,Report the P value for all tests of statistical significance?,Report exact P values (e.g. p = 0.021 or p < 0.001)?,Report a measure of precision (e.g. 95% CI) for effect sizes?,NOT interpret P values above the alpha threshold as trends towards statistical significance or as statistically significant?,"Report, for Bayesian analysis, the posterior distribution with a measure of central tendency and a credibility interval?",Define all plotted measures that summarise data variability or estimates of effect size?,Plot the individual participant/ specimen data in all figures that summarise data variability or estimates of effect size?,Make (de-identified) data used in the statistical analysis publicly available?,Make data processing code or spreadsheets publicly available?,Make statistical analysis code or spreadsheets publicly available?
+AGREE,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+APS_Editorial,N,N,E,N,E,N,N,N,N,E,N,E,E,E,E,N,N,N,N,N,N,N
+APS_Rigor,E,N,E,N,N,N,N,N,N,N,N,N,N,E,N,N,N,N,E,N,N,N
+ARRIVE,N,E,R,R,N,R,R,N,R,R,R,N,N,N,R,N,N,N,N,E,N,N
+BRISQ,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+CARE,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+CHEERS,N,N,N,N,N,N,E,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+CONSORT,R,N,R,R,N,R,N,N,N,N,N,N,N,N,R,N,N,N,N,N,N,N
+COREQ,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Cummings,N,N,N,N,N,N,N,N,N,N,N,N,N,R,R,N,N,N,N,N,N,N
+Drummond,N,N,N,N,N,N,N,N,N,E,N,N,N,N,E,N,N,E,E,N,N,N
+FORCE,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+GRIPS,N,N,E,E,N,N,E,N,N,N,N,N,N,N,E,N,N,N,N,N,N,N
+ICMJE-recomm,R,E,N,R,N,N,N,N,R,N,N,N,N,N,R,N,N,N,N,E,N,N
+MOOSE,N,N,R,N,N,N,N,N,N,N,N,N,N,N,R,N,N,N,N,N,N,N
+PRISMA,N,N,R,R,N,R,R,N,N,R,R,N,N,N,R,N,N,N,N,E,E,E
+recomm-report-,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,E,E
+RECORD,N,N,R,R,N,R,R,N,N,N,N,N,N,N,R,N,N,N,N,E,E,E
+REFLECT,N,N,R,N,N,N,N,N,N,N,N,N,N,N,R,N,N,N,N,N,N,N
+REMARK,N,N,R,E,N,N,R,N,N,N,N,N,N,N,R,N,N,N,N,N,N,N
+RIGHT,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+SAMPL,N,N,E,N,R,R,R,R,N,R,R,R,R,R,R,N,R,N,N,N,N,N
+Schultz,N,N,N,N,N,N,N,N,N,E,N,E,N,N,N,N,N,E,E,N,N,N
+SPIRIT,E,N,E,E,N,N,E,N,N,N,N,N,N,N,N,N,N,N,N,E,E,E
+SQUIRE,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+SRQR,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+stand-rep-qual-,N,N,N,E,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+STAR Methods,N,N,R,N,R,R,N,N,R,N,N,N,N,N,N,N,N,N,N,R,R,R
+STARD,N,R,E,N,N,N,E,N,E,N,N,N,N,N,N,N,N,N,N,N,N,N
+STREGA,N,N,R,E,N,N,E,N,E,N,N,N,N,N,R,N,N,N,N,N,N,N
+STROBE,N,N,R,R,N,R,R,N,N,N,N,N,N,N,R,N,N,N,N,N,N,N
+STROND PART 1 AND 2,N,E,N,N,N,N,E,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+TIDieR,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+TOP,R,R,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,R,R,R
+TREND,N,N,N,N,N,N,R,N,N,E,N,N,N,N,R,N,N,N,N,N,N,N
+TRIPOD,N,N,R,N,N,R,R,N,N,N,N,N,N,N,R,N,N,N,N,N,N,N
