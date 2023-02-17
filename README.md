@@ -15,7 +15,8 @@ Martin E Héroux<sup>2,3</sup>
 ## Suggested citation
 
 Diong J, Bye E, Djajadikarta Z, Butler AA, Gandevia SC, Héroux ME (2023) 
-Journal _Instructions to Authors_ could address responsible reporting practices more strongly.
+Encouraging responsible reporting practices in the _Instructions to Authors_ of neuroscience and physiology journals:
+there is room to improve.
 PLOS One (in press).
 
 ## Protocol registration
