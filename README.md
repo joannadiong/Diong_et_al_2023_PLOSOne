@@ -1,4 +1,4 @@
-# Journal _Instructions to Authors_ could address responsible reporting practices more strongly
+# Encouraging responsible reporting practices in the _Instructions to Authors_ of neuroscience and physiology journals: there is room to improve
 
 Joanna Diong,<sup>1,2</sup> 
 Elizabeth Bye,<sup>2,3</sup> 
